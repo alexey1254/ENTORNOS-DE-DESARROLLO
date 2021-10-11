@@ -1,4 +1,6 @@
-# Este repositorio está dirigido a la asignatura de Entornos de desarrollo
+# Este repositorio es para Entornos de Desarrollo
 
+<div>
 <p align="center">
-  <img src="InicioEntornosD.jpg" width="540" height="380" border="10" /></a>
+  <img src="InicioEntornosD.jpg" width="720" height="480" border="10" /></a>
+</div>

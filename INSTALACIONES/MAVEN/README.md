@@ -47,26 +47,25 @@ mvn -version
 
 ### Pegamos el siguiente codigo:
 
-``` export M2_HOME=/opt/maven
- export MAVEN_HOME=/opt/maven
- export PATH=${M2_HOME}/bin:${PATH}```
+	```export M2_HOME=/opt/maven
+	export MAVEN_HOME=/opt/maven
+ 	export PATH=${M2_HOME}/bin:${PATH}```
 
 ### Apretamos CTRL + O y CTRL + X para salir.
 
-	
 ### Haremos que el script sea ejecutable con el siguiente comando:
-	``` sudo chmod +x /etc/profile.d/maven.sh```
+	```sudo chmod +x /etc/profile.d/maven.sh```
 
 ### Finalmente cargamos las variables de entorno:
-	``source /etc/profile.d/maven.sh```
+	```source /etc/profile.d/maven.sh```
 
 ### Verificamos que se ha instalado maven con 
 	```mvn -version```
 	
 ### Y se tendría que ver algo así:
 	```Apache Maven 3.8.2 (cecedd343002696d0abb50b32b541b8a6ba2883f)
- Maven home: /opt/maven
- Java version: 11.0.7, vendor: Ubuntu, runtime: /usr/lib/jvm/java-11-openjdk-amd64
- Default locale: en_US, platform encoding: UTF-8
- OS name: "linux", version: "5.4.0-29-generic", arch: "amd64", family: "unix"```
+ 	Maven home: /opt/maven
+ 	Java version: 11.0.7, vendor: Ubuntu, runtime: /usr/lib/jvm/java-11-openjdk-amd64
+ 	Default locale: en_US, platform encoding: UTF-8
+ 	OS name: "linux", version: "5.4.0-29-generic", arch: "amd64", family: "unix"```
 	

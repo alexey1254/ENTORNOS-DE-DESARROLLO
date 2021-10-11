@@ -1,6 +1,6 @@
 # Instalación JDK
 <p align="center">
-  <src img="java.jpeg" width="600" height="500">
+  <src img="java.jpg" width="600" height="500">
 
 ## Para instalar el JDK en una máquina linux, necesitamos unos cuantos comandos que ahora veremos;
 ### Este sirve para actualizar la lista de repositorios

@@ -1,12 +1,14 @@
 # Instalación de Netbeans 8
 
+<div>
 <p align="center">
   <img src="netbeans8.jpg" width="500" height="300">
-  
-  ## Pasos
+</div>
+
+## Pasos
 
 ### Como siempre, confirmamos que tengamos instalado java
-  ```console
+```
 java -version
 ```
 

@@ -1,6 +1,7 @@
 #  Instalacion  InteliJ
 
-<img src="R.png">
+<p align="center">
+<img src="R.png" width="600" height="500">
 
 ### Antes de comenzar, necesitamos saber si tenemos java instalado y lo revisaremos con el siguiente comando:
 

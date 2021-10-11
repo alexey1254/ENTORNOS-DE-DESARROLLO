@@ -1,7 +1,7 @@
 # Instalación de Netbeans 8
 
 <p align="center">
-  <img src="[](netbeans8.jpg)" width="500" height="300">
+  <img src="netbeans8.jpg" width="500" height="300">
   
   ## Pasos
 

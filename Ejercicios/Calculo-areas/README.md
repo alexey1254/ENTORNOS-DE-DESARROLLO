@@ -21,6 +21,8 @@
 - Preguntarle al usuario si quiere que en caso de que sea decimal, donde hacer el corte.
 - En caso de numero decimal, preguntar si quiere redondear el número hacia arriba o ponerlo tal cual.
 - Guardar los resultados a parte por si el usuario alguna vez vuelve a pedir los mismos datos.
+- Crear un registro por si ha salido algo mal en el programa que lo registre.
+- Selector de diseño de números.
 ```
 ## Métodos:
 ```
@@ -29,4 +31,8 @@
 - Método que me corte los números decimales
 - Método que redondee números decimales.
 - Método que transforme decimales a enteros
+- Método que transforme decimales a enteros
+- Método que me guarde al salir las cosas hechas
+- Método que registre una salida inesperada del programa
+- Método que me permita cambiar de fuente de letras.
 ```

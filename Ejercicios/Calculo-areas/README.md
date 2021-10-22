@@ -1,9 +1,14 @@
 # Ejercicio calculo de areas
+## Ejercicio  
 
-## 22 DE OCTUBRE DE 2021
+  Realiza el análisis para una aplicación que pretende realizar el calculo de las áreas que muestra la imagen. Define clases y métodos necesarios que creas oportunos.
 
+<div align="center">
+ <img src="https://camo.githubusercontent.com/7fdd3aff4dc0335525832b7fe2f79d0c0f391c4df17a07da1fed3289e0fa4064/68747470733a2f2f7777772e70726f6665736f72656e6c696e65612e636c2f67656f6d6574726961696d6167656e2f617265617330312e676966">
+ </div>
 
-**1ºCFGS DAW Alejandro R. Marrero Cabrera**
+ **1ºCFGS DAW Alejandro R. Marrero Cabrera**
+ 
  # Cosas a tener en cuenta:
 ```
 - Tipo de figura

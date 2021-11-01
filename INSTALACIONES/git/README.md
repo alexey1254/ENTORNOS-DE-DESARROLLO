@@ -2,7 +2,7 @@
 
 <div align="center">
     <br>
-        <img src="git.png">
+        <img src="git.png" width="550" height="300">
     <br>
 </div>
 

@@ -68,4 +68,4 @@ git config --global user.name "Tu nombre"
 git config --global user.email "tuemail@domain.com"
 ```
 
-###### ~~Fin del tutorial, si quieres dale like o invítame a un café y hablamos de ciberseguridad 😉...~~
+###### ~~Fin del tutorial, si quieres invítame a un café y hablamos de ciberseguridad 😉...~~

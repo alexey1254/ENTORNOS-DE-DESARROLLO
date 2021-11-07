@@ -1,6 +1,6 @@
 # Manipulación avanzada git
 
-##### Para hacer estos ejecicios, antes he clonado el repositorio de https://github.com/jpexposito/libro con los siguientes comandos: **
+##### Para hacer estos ejecicios, antes he clonado el repositorio de https://github.com/jpexposito/libro con los siguientes comandos:
 
 ```
 git clone https://github.com/jpexposito/libro 

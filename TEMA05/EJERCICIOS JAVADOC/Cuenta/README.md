@@ -21,6 +21,6 @@
 
 </div>
 
-[Ver mi solucion](./Cuenta/Cuenta.java)
+[Ver mi solucion](Cuenta.java)
 
 [Este enlace lleva al ejercicio](https://github.com/jpexposito/docencia/blob/master/ETS/DOCUMENTACION/JAVA-DOC/ejercicios/ejercicioI.md)
